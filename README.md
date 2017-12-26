@@ -1,2 +1,2 @@
 # TokenRing
-Execute "./build" and follow ./main --help, ./serviceMessages --help
+Execute "./build" and follow "./main --help", "./serviceMessages --help"
