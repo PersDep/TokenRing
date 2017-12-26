@@ -1,0 +1,4 @@
+#!/bin/bash
+
+go build main.go ring.go
+go build service/serviceMessages.go
